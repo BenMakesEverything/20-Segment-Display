@@ -4,4 +4,6 @@ You can use any type, but it wass designed to be used in conjunction with the WS
 
 All of the 3D files are available in .stl and .step format in the "Objects" folder.
 
+The arucino code for this version is available in the "Code" folder. It requires that you install the Adafruit neopixel libary within the Arduino IDE. 
+
 PCB files will be added to this repository soon.
