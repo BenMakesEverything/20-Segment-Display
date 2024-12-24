@@ -1,8 +1,8 @@
-<img src="img/20-segment-main.jpg" width="100%" alt="PMW3360 Module Image">
+<img src="img/20-segment-main.jpg" width="100%" alt="20 Segemnt 3D printed display">
 
 # 3D Printable 20 Segment Display
 ### This is a fully 3D printed segmented display designed for use with 5mm LEDs
-You can use any type, but it wass designed to be used in conjunction with the WS2812 through-hole type, soldered to a custom PCB.
+You can use any type, but it was designed to be used in conjunction with the WS2812 through-hole type, soldered to a custom PCB.
 
 # Parts list - for 1 display
 * (38) WS2812 5mm LED: https://www.aliexpress.us/item/3256803179127817.html
