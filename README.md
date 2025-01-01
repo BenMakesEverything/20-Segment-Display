@@ -13,7 +13,7 @@ You can use any type, but it was designed to be used in conjunction with the WS2
 
 All of the 3D files are available in .stl and .step format in the "Objects" folder.
 
-The Arduino code for this version is available in the "Code" folder. It requires that you install the Adafruit neopixel libary within the Arduino IDE. 
+The Arduino code for this version is available in the "Code" folder. It requires that you install the Adafruit neopixel libary within the Arduino IDE. There are now 2 versions: the standard one as seen in the video, and a scrolling version that lets you display longer messages.
 
 In the "PCBs" folder you will find 2 zip files. 20-Segment-THT-KiCad.zip is a zipped folder of everything you need to open this in KiCad version 8+. 20-Segment-THT.kicad_pcb.zip contains gerber/drill files. Please note, the BOM file was auto generated, but I did not use it in getting these manufactured and can't confirm that the info is correct. I manually soldered the parts myself so if you want to get these manufactured in complete form, you'll likely need to specify the part numbers yourself.
 
